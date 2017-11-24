@@ -1,0 +1,1 @@
+task1 Core1 2 task3 Core5 2 task2 Core2 2 task4 Core4 4 task5 Core3 4 task8 Core5 7 task7 Core1 7 task12 Core2 7 task6 Core3 7 task11 Core4 7 task10 Core3 8 task9 Core4 8 task13 Core2 8 task14 Core1 8 task15 Core5 8 task17 Core1 10 task18 Core5 10 task19 Core4 10 task16 Core3 10 task20 Core2 10 
